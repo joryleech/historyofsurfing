@@ -1,0 +1,25 @@
+body{
+  background-image: url("https://www.aquabumps.com/wp-content/uploads/2009/09/20090915-right-hander.jpg");
+  background-size:100%;
+}
+h1,h2{
+  font-family: 'Original Surfer';
+  text-align:center;
+  color: deeppink;
+}
+p{
+  font-family: 'Zeyada';
+  color:deeppink;
+  font-size:30px;
+}
+#surfer{
+  width:200px;
+  height:200px;
+  max-width:200px;
+  bacckground-color:blue;
+  background-size:200px;
+}
+div{
+  width:200px;height:auto;background-color:red;float:left;margin-right:100px;margin-left:100px;align:center;
+  background-size:100%;text-align:center;padding-top:50px;
+}
